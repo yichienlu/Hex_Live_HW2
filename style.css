@@ -215,7 +215,8 @@ h2 {
 
 .about p {
     font-size: 24px;
-    line-height: 32px;
+    line-height: 32px; 
+    /* ↑ 覺得有點奇怪，設計稿右邊寫42px，但是設計稿上面寫32px，我依照畫面呈現出的樣子(還有用尺量過XDD)選擇使用32px */
     text-align: center;
     font-weight: 700;
 }
